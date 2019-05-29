@@ -11,10 +11,20 @@ In this example, category of **Game** and **Book** are fetched and saved as **ou
 <img src="https://github.com/shutokawabata0723/Amazon-Rank-Jsoup-Final/blob/master/out2.png" width="800">
 
 This is **input.txt**. You can add other URLs that you want to fetch.
+
 <img src="https://github.com/shutokawabata0723/Amazon-Rank-Jsoup-Final/blob/master/input.png" width="800">
 
 
-#Licence
+# Usage
+
+from Terminal
+
+`git clone git@github.com:shutokawabata0723/Amazon-Rank-Jsoup-Final.git`
+
+IntelliJ --> Open --> `sampleartifact`　（ディレクトリ）を選択
+
+
+# Licence
 CopyRight (c) 2019 Shuto Kawabata
 
 Released under the MIT licence
@@ -22,5 +32,8 @@ Released under the MIT licence
 https://opensource.org/licenses/MIT
 
 
-#Author
+# Author
+
 **Shuto Kawabata**
+
+
