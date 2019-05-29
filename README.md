@@ -24,9 +24,10 @@ from Terminal
 IntelliJ --> `Open` --> choose `sampleartifact` --> `Run`
 
 # Code
-Main
+**Main**
 
-`Python:
+```Python
+
 package jp.sample;
 
 import java.io.IOException;
@@ -40,7 +41,9 @@ Main {
         scrapeService.getTitle();
     }
 }
-`
+```
+
+
 
 
 # Licence
