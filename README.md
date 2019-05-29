@@ -21,7 +21,9 @@ from Terminal
 
 `git clone git@github.com:shutokawabata0723/Amazon-Rank-Jsoup-Final.git`
 
-IntelliJ --> Open --> `sampleartifact`　（ディレクトリ）を選択
+IntelliJ --> `Open` --> choose `sampleartifact` --> `Run`
+
+# Code
 
 
 # Licence
