@@ -1,5 +1,5 @@
 # Amazon-Rank-Jsoup-Final
-PRESENT for my friend
+
 <img src="https://github.com/shutokawabata0723/Amazon-Rank-Jsoup-Final/blob/master/ama.gif" width="800">
 
 This program fetches **Name**, **Price**, **Link**, **Maker**, **Rank** and **Category** of the item on [Amazon Ranking page](https://www.amazon.co.jp/ranking?ref=crw_zg_ts).
